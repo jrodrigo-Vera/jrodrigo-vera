@@ -1,1 +1,1 @@
-<h1>Hi there 👋</h1>
+<h1 text-aling:center>Hi there 👋</h1>
