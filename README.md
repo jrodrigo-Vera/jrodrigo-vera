@@ -12,7 +12,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I'm currently studying `Computer Systems Engineering`.
 - :nerd_face: I like `Learn new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: Take a look to [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
 
 <br>
